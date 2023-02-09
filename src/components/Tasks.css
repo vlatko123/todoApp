@@ -1,0 +1,15 @@
+.entries{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 100px 0 100px 0;
+}
+
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.btnContainer button{
+    height: 42px;
+}

@@ -1,0 +1,23 @@
+.todoList {
+    display: flex;
+    flex: 8;
+    justify-content: space-between;
+    margin: 5px 0 5px 0;
+}
+
+.cTask {
+    display: flex;
+    flex: 4;
+    justify-content: space-between;
+    margin: 5px 0 5px 0;
+    background-color: lightgreen;
+   }
+
+.task {
+    width: 50%;
+    border: 1px solid black;
+}
+
+button{
+    margin: 0 3px 0 3px;
+}
